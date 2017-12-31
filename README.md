@@ -14,7 +14,8 @@ Run `ng generate component component-name` to generate a new component. You can 
 
 Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `-prod` flag for a production build.
 
-## Running unit tests
 
-##Concepts Used : Custom Binding, DataBinding for component communication, ViewEncapsulation, projecting contents into components using ngcontent, getting access to template and DOM with @ViewChild, Use local references in templates,
+##Concepts Used :
+
+Custom Binding, DataBinding for component communication, ViewEncapsulation, projecting contents into components using ngcontent, getting access to template and DOM with @ViewChild, Use local references in templates,
 ##ComponentLifecycle
